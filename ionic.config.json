@@ -1,0 +1,7 @@
+{
+  "name": "google-map",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
